@@ -20,3 +20,5 @@ class ExampleProvider(val plugin: TestPlugin) : MainAPI() { // all providers mus
         return listOf<SearchResponse>()
     }
 }
+
+// this is a test comment
