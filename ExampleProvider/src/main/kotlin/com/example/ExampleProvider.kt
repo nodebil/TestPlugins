@@ -22,3 +22,5 @@ class ExampleProvider(val plugin: TestPlugin) : MainAPI() { // all providers mus
 }
 
 // this is a test comment
+
+// another test comment
